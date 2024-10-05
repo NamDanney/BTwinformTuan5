@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Table_02\QuanLyStudent\bin\Debug\QuanLyStudent.exe.config
+C:\Users\admin\source\repos\Table_02\QuanLyStudent\bin\Debug\QuanLyStudent.exe
+C:\Users\admin\source\repos\Table_02\QuanLyStudent\bin\Debug\QuanLyStudent.pdb
+C:\Users\admin\source\repos\Table_02\QuanLyStudent\obj\Debug\QuanLyStudent.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Table_02\QuanLyStudent\obj\Debug\QuanLyStudent.Form1.resources
+C:\Users\admin\source\repos\Table_02\QuanLyStudent\obj\Debug\QuanLyStudent.Properties.Resources.resources
+C:\Users\admin\source\repos\Table_02\QuanLyStudent\obj\Debug\QuanLyStudent.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Table_02\QuanLyStudent\obj\Debug\QuanLyStudent.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Table_02\QuanLyStudent\obj\Debug\QuanLyStudent.exe
+C:\Users\admin\source\repos\Table_02\QuanLyStudent\obj\Debug\QuanLyStudent.pdb
+C:\Users\admin\source\repos\Table_02\QuanLyStudent\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\Table_02\QuanLyStudent\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\Table_02\QuanLyStudent\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\Table_02\QuanLyStudent\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\Table_02\QuanLyStudent\obj\Debug\QuanLySt.3C938E35.Up2Date
